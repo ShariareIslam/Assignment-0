@@ -1,0 +1,42 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    
+}
+.header{
+    font-size: 30px;
+    color: rgb(131, 197, 197);
+}
+h3{
+    font-size: 15px;
+    color: white;    
+}
+
+.header-2{
+    font-size: 30px;
+    color: gray;
+}
+section{
+    display: flex;
+}
+.header-section{
+    width: 50;
+    padding-left: 30px;
+}
+.header-section img{
+    width: 100%;
+    
+}
+.portfolio-button{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(76, 165, 165), grey);
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+}
+.background-img{
+    background-image: url(images/background\'.jpg);
+    background-repeat: no-repeat;
+
+}
